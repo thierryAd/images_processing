@@ -8,7 +8,6 @@ color couleur;
 void setup() {
   size(600, 600);
   img=loadImage("pap600.jpg");
-  
 }      
 
 
