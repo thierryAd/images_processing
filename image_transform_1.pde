@@ -24,9 +24,9 @@ void draw() {
       int grey=round(red(couleur)*0.222+green(couleur)*0.707+blue(couleur)*0.071);
       
       //Passage en noir & blanc
-      //imgDb.set(i,j,color(grey));
+      imgDb.set(i,j,color(grey));
       
-      Symétrie par rapport axe vertical
+      //Symétrie par rapport axe vertical
       //imgDb.set(600-i,j,couleur);
       
      //Symétrie par rapport axe horizontal
